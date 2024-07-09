@@ -8,15 +8,23 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit 테스트웹1 <code>src/App.tsx</code> and save to reload.
+          리액트 타입스크립트 <code>src/App.tsx</code> 작성
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.naver.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          네이버 검색
+        </a>
+        <a
+          className="App-link"
+          href="https://www.google.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          구글 검색
         </a>
       </header>
     </div>
