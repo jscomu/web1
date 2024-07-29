@@ -24,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          구글 검색
+          Google 검색
         </a>
       </header>
     </div>
